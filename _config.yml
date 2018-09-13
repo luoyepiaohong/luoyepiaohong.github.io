@@ -7,11 +7,11 @@ description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 落叶飘红的博客, 李露露,远方,曾经,Lucy lee, lilulu, iOS, Apple, iPhone"
 url: "http://luoyepiaohong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/luoyepiaohong/luoyepiaohong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "座右铭：与其用泪水悔恨昨天，不如用汗水拼搏今天。（Rather than regret yesterday with tears, it is better to fight today with sweat.）"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
